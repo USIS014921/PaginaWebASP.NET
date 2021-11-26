@@ -13,5 +13,25 @@ namespace borrar
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        protected void DetailsView1_PageIndexChanging(object sender, DetailsViewPageEventArgs e)
+        {
+
+        }
+
+        protected void DetailsView1_PageIndexChanging1(object sender, DetailsViewPageEventArgs e)
+        {
+
+        }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

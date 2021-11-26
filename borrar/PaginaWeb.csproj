@@ -166,6 +166,10 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="App_Data\Dudas.mdf" />
+    <Content Include="App_Data\Dudas_log.ldf">
+      <DependentUpon>Dudas.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\Usuarios.mdf" />
     <Content Include="App_Data\Usuarios_log.ldf">
       <DependentUpon>Usuarios.mdf</DependentUpon>
@@ -181,6 +185,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\Imagen\download.png" />
+    <Content Include="Formulario web1.aspx" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -364,6 +369,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web1.aspx.cs">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web1.aspx.designer.cs">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

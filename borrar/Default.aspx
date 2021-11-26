@@ -4,6 +4,7 @@
 
     <div class="jumbotron">
         <h1>
+            &nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img alt="" src="fonts/Imagen/download.png" style="width: 325px; height: 225px" /></h1>
         <h1>&nbsp;<span>Electronic Components.</span></h1>
@@ -18,7 +19,7 @@
             <p>
                 Le mostramos los componentes mas buscados y los mas comprados en este apartado.</p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Leer mas »</a>
+                &nbsp;<asp:Button ID="Button1" runat="server" Height="28px" OnClick="Button1_Click" Text="Leer mas »" Width="91px" />
             </p>
         </div>
         <div class="col-md-4">
@@ -26,16 +27,16 @@
             <p>
                 Te mostramos en que parte podemos entregas los diferentes componentes que nos pidan.</p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Leer mas »</a>
-            </p>
+                <asp:Button ID="Button2" runat="server" Height="28px" OnClick="Button1_Click" Text="Leer mas »" Width="91px" />
+&nbsp;</p>
         </div>
         <div class="col-md-4">
             <h2>Problemas</h2>
             <p>
                 En este apartado puede encontrar ayuda con algun problema que tenga ya sea con la pagina o con los componentes.</p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Leer mas »</a>
-            </p>
+                <asp:Button ID="Button3" runat="server" Height="28px" OnClick="Button1_Click" Text="Leer mas »" Width="91px" />
+&nbsp;</p>
         </div>
     </div>
 
