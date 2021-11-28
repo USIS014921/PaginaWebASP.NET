@@ -94,7 +94,7 @@
                         </li>
                         <li><a runat="server" href="~/">Componentes</a>
                             <ul>
-                                <li><a runat="server" href="~/Componentes">Resistencias</a></li>
+                                <li><a runat="server" href="~/Resistencias">Resistencias</a></li>
                                 <li><a runat="server" href="~/CircuitosIntegrados">Circuitos Integrados</a></li>
                                 <li><a runat="server" href="~/Condensadores">Condensadores</a></li>
                             </ul>
