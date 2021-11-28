@@ -15,7 +15,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <span class="auto-style1">Componentes Expuestos</span><br class="auto-style1" />
+            <span class="auto-style1">&nbsp;Resistencias En Venta</span><br class="auto-style1" />
             <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="IdComponentes" DataSourceID="SqlDataSource1" Width="411px">
                 <Columns>
                     <asp:BoundField DataField="IdComponentes" HeaderText="IdComponentes" ReadOnly="True" SortExpression="IdComponentes" />
@@ -26,7 +26,7 @@
             </asp:GridView>
             <br class="auto-style1" />
             <br class="auto-style1" />
-            <span class="auto-style1">Ingresar</span> <span class="auto-style1">Componentes</span></div>
+            <span class="auto-style1">Ingresar Resistencias </span></div>
         <asp:DetailsView ID="DetailsView1" runat="server" AutoGenerateRows="False" DataKeyNames="IdComponentes" DataSourceID="SqlDataSource1" DefaultMode="Insert" Height="124px" Width="273px">
             <Fields>
                 <asp:BoundField DataField="IdComponentes" HeaderText="IdComponentes" ReadOnly="True" SortExpression="IdComponentes" />

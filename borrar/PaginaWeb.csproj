@@ -175,7 +175,9 @@
       <DependentUpon>Usuarios.mdf</DependentUpon>
     </Content>
     <Content Include="Ayuda.aspx" />
+    <Content Include="CircuitosIntegrados.aspx" />
     <Content Include="Clientes.aspx" />
+    <Content Include="Condensadores.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -359,12 +361,26 @@
     <Compile Include="Ayuda.aspx.designer.cs">
       <DependentUpon>Ayuda.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CircuitosIntegrados.aspx.cs">
+      <DependentUpon>CircuitosIntegrados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CircuitosIntegrados.aspx.designer.cs">
+      <DependentUpon>CircuitosIntegrados.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Clientes.aspx.cs">
       <DependentUpon>Clientes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Clientes.aspx.designer.cs">
       <DependentUpon>Clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Condensadores.aspx.cs">
+      <DependentUpon>Condensadores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Condensadores.aspx.designer.cs">
+      <DependentUpon>Condensadores.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
