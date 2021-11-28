@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <p>
     <br />
-    <strong><span style="font-size: x-large">Ingresar Usuarios</span></strong></p>
+    <strong><span style="font-size: x-large">Ingresar Empleados</span></strong></p>
 <p>
     <asp:DetailsView ID="DetailsView1" runat="server" AutoGenerateRows="False" DataKeyNames="Idusuario" DataSourceID="SqlDataSource1" Height="50px" Width="125px" DefaultMode="Insert" OnPageIndexChanging="DetailsView1_PageIndexChanging">
         <Fields>
@@ -90,7 +90,7 @@
 <p>
     &nbsp;</p>
 <p style="font-size: x-large">
-    <strong>Usuarios Ingresados</strong></p>
+    E<strong>mpleados Ingresados</strong></p>
 <p style="font-size: x-large">
     <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="Idusuario" DataSourceID="SqlDataSource1" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="1263px" style="font-size: medium">
         <Columns>

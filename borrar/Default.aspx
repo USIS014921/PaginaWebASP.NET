@@ -14,8 +14,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>&nbsp;</h2>
-            <h2>Componentes</h2>
+            <h2>&nbsp;Componentes</h2>
             <p>
                 Le mostramos los componentes mas buscados y los mas comprados en este apartado.</p>
             <p>
