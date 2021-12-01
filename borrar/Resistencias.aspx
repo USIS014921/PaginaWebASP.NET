@@ -10,6 +10,7 @@
 <p>
     <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="Idresistencias" DataSourceID="SqlDataSource1" Height="171px" Width="341px">
         <Columns>
+            <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" />
             <asp:BoundField DataField="Idresistencias" HeaderText="Idresistencias" ReadOnly="True" SortExpression="Idresistencias" />
             <asp:BoundField DataField="Nombre" HeaderText="Nombre" SortExpression="Nombre" />
             <asp:BoundField DataField="Precio" HeaderText="Precio" SortExpression="Precio" />

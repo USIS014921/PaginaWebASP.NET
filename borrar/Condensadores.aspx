@@ -7,17 +7,15 @@
         &nbsp;</p>
     <p>
         <span style="font-size: x-large">Condensadores En Venta</span></p>
-    <p>
         <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="Idcondensadores" DataSourceID="SqlDataSource1" Height="166px" Width="335px">
             <Columns>
-                <asp:CommandField ShowEditButton="True" />
+                <asp:CommandField ShowEditButton="True" ShowDeleteButton="True" />
                 <asp:BoundField DataField="Idcondensadores" HeaderText="Idcondensadores" ReadOnly="True" SortExpression="Idcondensadores" />
                 <asp:BoundField DataField="Nombre" HeaderText="Nombre" SortExpression="Nombre" />
                 <asp:BoundField DataField="Precio" HeaderText="Precio" SortExpression="Precio" />
                 <asp:BoundField DataField="Categoria" HeaderText="Categoria" SortExpression="Categoria" />
             </Columns>
         </asp:GridView>
-    </p>
     <p>
         &nbsp;</p>
     <p>

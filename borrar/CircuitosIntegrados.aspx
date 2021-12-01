@@ -6,6 +6,7 @@
             Circuitos En Venta</span><br />
     <asp:GridView ID="GridView2" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="Idcircuitos" DataSourceID="SqlDataSource1" Height="172px" Width="489px">
         <Columns>
+            <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" />
             <asp:BoundField DataField="Idcircuitos" HeaderText="Idcircuitos" ReadOnly="True" SortExpression="Idcircuitos" />
             <asp:BoundField DataField="Nombre" HeaderText="Nombre" SortExpression="Nombre" />
             <asp:BoundField DataField="Precio" HeaderText="Precio" SortExpression="Precio" />
