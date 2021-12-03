@@ -17,7 +17,7 @@
             </Columns>
         </asp:GridView>
     <p>
-        &nbsp;</p>
+        <img src="fonts/Imagen/con1.jpg" style="width: 225px; height: 225px" /><img alt="" src="fonts/Imagen/con2.jpg" style="width: 275px; height: 183px" /></p>
     <p>
         <span style="font-size: x-large">Ingresar Condensadores</span></p>
     <p>

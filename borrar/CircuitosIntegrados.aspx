@@ -13,7 +13,7 @@
             <asp:BoundField DataField="Categoria" HeaderText="Categoria" SortExpression="Categoria" />
         </Columns>
     </asp:GridView>
-    <br />
+    <img alt="" src="fonts/Imagen/cir1.jpg" style="width: 323px; height: 156px" /><img alt="" src="fonts/Imagen/cir2.jpg" style="width: 311px; height: 162px" /><br />
     <br /><span style="font-size: x-large">Ingresar Circuitos</span>
     <br />
     <asp:DetailsView ID="DetailsView2" runat="server" AutoGenerateRows="False" DataKeyNames="Idcircuitos" DataSourceID="SqlDataSource1" DefaultMode="Insert" Height="109px" Width="208px">

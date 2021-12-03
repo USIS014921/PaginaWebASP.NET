@@ -17,7 +17,10 @@
             <asp:BoundField DataField="Categoria" HeaderText="Categoria" SortExpression="Categoria" />
         </Columns>
     </asp:GridView>
-</p>
+    <img src="fonts/Imagen/r2.jpg" style="width: 225px; height: 225px" />
+    <img src="fonts/Imagen/r1.jpg" style="width: 225px; height: 225px" /></p>
+    <p>
+        &nbsp;</p>
 <span style="font-size: x-large">Ingresar Resistencias<br />
 <asp:DetailsView ID="DetailsView1" runat="server" AutoGenerateRows="False" DataKeyNames="Idresistencias" DataSourceID="SqlDataSource1" DefaultMode="Insert" Height="50px" style="font-size: medium" Width="255px">
     <Fields>
