@@ -85,7 +85,7 @@
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
                         <li><a runat="server" href="~/Ayuda">Ayuda</a></li>
-
+                        <li><a runat="server" href="~/Privacidad">Privacidad</a>
                         <li><a runat="server" href="~/">Personas</a>
                             <ul>
                                 <li><a runat="server" href="~/Clientes">Clientes</a></li>
