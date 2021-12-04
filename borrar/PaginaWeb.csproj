@@ -188,7 +188,10 @@
     <Content Include="fonts\Imagen\cir2.jpg" />
     <Content Include="fonts\Imagen\con1.jpg" />
     <Content Include="fonts\Imagen\con2.jpg" />
+    <Content Include="fonts\Imagen\download.jpg" />
     <Content Include="fonts\Imagen\download.png" />
+    <Content Include="fonts\Imagen\images.jpg" />
+    <Content Include="fonts\Imagen\probleas.jpg" />
     <Content Include="fonts\Imagen\r1.jpg" />
     <Content Include="fonts\Imagen\r2.jpg" />
     <Content Include="Formulario web1.aspx" />
