@@ -127,15 +127,20 @@
     </form>
 </body>
 </html>
-<a href="http://www.copyscape.com/"><img src="//banners.copyscape.com/img/copyscape-seal-black-120x100.png" width="120"
 <div class="copyright" align="center">
-<script >
-    document.write('& copy;');
-    document.write('ElectronicComponents.com ');
-    document.write(' 2021 - ');
-    document.write(new Date().getFullYear());
-    document.write('ElectronicComponents.com - All Rights Reserved. ');
-    document.write('<br/>Last Updated :');
-    document.write(document.lastModified);
-    </script >
-        </div >
+
+<a href="http://www.copyscape.com/"><img src="//banners.copyscape.com/img/copyscape-seal-black-120x100.png" width="120" height="100" border="0" alt="Protected by Copyscape" title="Protected by Copyscape - Do not copy content from this page." /></a>
+
+</div>
+
+<div class="copyright" align="center">
+    <script language="JavaScript">
+        document.write('&copy;');
+        document.write('Electronic_Components.com ');
+        document.write(' 2021 - ');
+        document.write(new Date().getFullYear());
+        document.write('Electronic Components-Todos los derechos reservados. ');
+        document.write('<br />Fecha Actualizada :');
+        document.write(document.lastModified);
+    </script>
+       </div>

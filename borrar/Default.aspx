@@ -7,10 +7,9 @@
             &nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img alt="" src="fonts/Imagen/download.png" style="width: 325px; height: 225px" /></h1>
-        <h1>&nbsp;<span>Electronic Components.</span></h1>
+        <h1><span>&nbsp;Electronic Components.</span></h1>
         <p class="lead">La mejor distribuidora de componentes electronicos de la mejor calidad y al mejor precio, calidad garantizada por los especialistas.</p>
-        <p><a class="btn btn-primary btn-lg" href="http://www.asp.ne">Leer mas »</a></p>
-        <p style="font-size: x-large">Le Ofrecemos Informacion en:</p>
+        <p>Le Ofrecemos Informacion en:</p>
     </div>
 
     <div class="row">
@@ -26,7 +25,7 @@
         <div class="col-md-4">
             <h2>Distribucion</h2>
             <p style="font-size: large">
-                Te mostramos en que parte podemos entregas los diferentes componentes que nos pidan.</p>
+                Te mostramos en que parte podemos entregas los diferentes componentes que nos ordenen.</p>
             <p style="font-size: large">
                 <img alt="" src="fonts/Imagen/images.jpg" style="width: 304px; height: 166px" /></p>
             <p>
