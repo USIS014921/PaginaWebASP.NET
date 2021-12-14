@@ -19,7 +19,7 @@
                 Le mostramos los componentes mas buscados y los mas comprados en este apartado.</p>
             <p>
                 <img alt="" src="fonts/Imagen/download.jpg" style="width: 258px; height: 196px" /></p>
-            <p>
+            <p> 
                 &nbsp;</p>
         </div>
         <div class="col-md-4">
